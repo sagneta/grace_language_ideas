@@ -7,7 +7,7 @@ First shot at an outline of the language. The fundamental concepts sans approach
 Fundamental concepts of the Grace language:
 * Authentication
 * Authorization
-* Provide Integrity, Confidentiality and Non-repudiation. (Don't just toss an encryption library at the developer.)
+* Provide Integrity, Confidentiality, obfuscation and Non-repudiation. (Don't just toss an encryption library at the developer.)
 * KeyManagement (Every successful security standard has key management. Conversely, every unsuccessful security standard does not have key management.)
 * Immutability be default (You have to explicitly make things writable. No longer unique concept among languages but worth pointing out.)
 * Error Handling (All the arguments against non-checked exceptions ignore the fact that developers can't handle non-checked exceptions. Not sure what the answer is here.)
